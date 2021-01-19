@@ -1,7 +1,7 @@
 # CleanTube
 
 > Version 1.3 :memo:  
-> Make your Youtube looking cleaner.
+> A browser extension to make your Youtube looking cleaner.
 
 ## How to use it ?
 
