@@ -1,7 +1,7 @@
 # CleanTube
 
 > Version 1.3 :memo:  
-> A personal start page for your browser with date and weather.
+> Make your Youtube looking cleaner.
 
 ## How to use it ?
 
