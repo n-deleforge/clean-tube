@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "CleanTube",
+    "version": "1.3",
+    "description": "Make your Youtube cleaner.",
+    "content_scripts": [
+        {
+            "matches": ["*://*.youtube.com/*"],
+            "js": ["cleanTube.js"]
+        }
+    ]
+}
