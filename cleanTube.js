@@ -1,5 +1,5 @@
 // ===> Variables
-const DEBUG = false
+const DEBUG = false;
 const DELAY = 2000;
 
 // ===> Main call
